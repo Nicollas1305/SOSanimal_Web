@@ -1,7 +1,7 @@
 <%-- 
     Document   : CadastrarCliente
     Created on : 23/11/2020, 19:51:22
-    Author     : carto
+    Author     : Nicollas1305
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
